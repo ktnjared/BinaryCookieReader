@@ -10,13 +10,13 @@ Originally written By Satishb3 ([satishb3@securitylearn.net](satishb3@securityle
 #*******************************************************************************#
 # BinaryCookieReader: Written By Satishb3 (http://www.securitylearn.net)        #
 #                                                                               #
-# For any bug fixes contact me: satishb3@securitylearn.net                       #
+# For any bug fixes contact me: satishb3@securitylearn.net                      #
 #                                                                               #
 # Usage: Python BinaryCookieReader.py Cookie.Binarycookies-FilePath             #
 #                                                                               #
 # Safari browser and iOS applications store the persistent cookies in a binary  #
-# file names Cookies.binarycookies.BinaryCookieReader is used to dump all the    #
-# cookies from the binary Cookies.binarycookies file.                            #
+# file names Cookies.binarycookies.BinaryCookieReader is used to dump all the   #
+# cookies from the binary Cookies.binarycookies file.                           #
 #                                                                               #
 #*******************************************************************************#
 ```
